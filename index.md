@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="fr-fr">
 <head>
-	<meta name="generator" content="Hugo 0.152.2"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta name="generator" content="Hugo 0.152.2"><script src="/portfolio/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=portfolio/livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <script type="application/javascript" src='http://localhost:1313/js/theme-mode.js'></script>
-    <link rel="stylesheet" href='http://localhost:1313/css/frameworks.min.css' />
-    <link rel="stylesheet" href='http://localhost:1313/css/github.min.css' />
-    <link rel="stylesheet" href='http://localhost:1313/css/github-style.css' />
-    <link rel="stylesheet" href='http://localhost:1313/css/light.css' />
-    <link rel="stylesheet" href='http://localhost:1313/css/dark.css' />
-    <link rel="stylesheet" href='http://localhost:1313/css/syntax.css' />
+    <script type="application/javascript" src='https://hhamine.github.io/portfolio/js/theme-mode.js'></script>
+    <link rel="stylesheet" href='https://hhamine.github.io/portfolio/css/frameworks.min.css' />
+    <link rel="stylesheet" href='https://hhamine.github.io/portfolio/css/github.min.css' />
+    <link rel="stylesheet" href='https://hhamine.github.io/portfolio/css/github-style.css' />
+    <link rel="stylesheet" href='https://hhamine.github.io/portfolio/css/light.css' />
+    <link rel="stylesheet" href='https://hhamine.github.io/portfolio/css/dark.css' />
+    <link rel="stylesheet" href='https://hhamine.github.io/portfolio/css/syntax.css' />
     <title>Hamed Hamine SANOU | Ingénieur SI &amp; Développeur Full-Stack</title>
     
     <link rel="icon" type="image/x-icon" href='/images/github-mark.png'>
@@ -26,34 +26,34 @@
 <meta name="keywords"
   content='Hamed Hamine SANOU, Ingénieur systèmes d&#39;information, développeur full-stack, open source, Linux, BSD, SIH' />
 <meta name="robots" content="noodp" />
-<link rel="canonical" href="http://localhost:1313/" />
+<link rel="canonical" href="https://hhamine.github.io/portfolio/" />
 
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Hamed Hamine SANOU | Ingénieur SI &amp; Développeur Full-Stack" />
 <meta name="twitter:description"
   content="Ingénieur en Systèmes d&#39;Information, développeur Full-Stack orienté backend, consultant en solutions libres/Open Source et spécialiste  solutions Unix(Linux &amp;&amp; BSD)." />
-<meta name="twitter:site" content="http://localhost:1313/" />
+<meta name="twitter:site" content="https://hhamine.github.io/portfolio/" />
 <meta name="twitter:creator" content="" />
 <meta name="twitter:image"
-  content="http://localhost:1313/images/avatar.png">
+  content="https://hhamine.github.io/images/avatar.png">
 
 
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Hamed Hamine SANOU | Ingénieur SI &amp; Développeur Full-Stack">
 <meta property="og:description"
   content="Ingénieur en Systèmes d&#39;Information, développeur Full-Stack orienté backend, consultant en solutions libres/Open Source et spécialiste  solutions Unix(Linux &amp;&amp; BSD)." />
-<meta property="og:url" content="http://localhost:1313/" />
+<meta property="og:url" content="https://hhamine.github.io/portfolio/" />
 <meta property="og:site_name" content="Hamed Hamine SANOU | Ingénieur SI &amp; Développeur Full-Stack" />
 <meta property="og:image"
-  content="http://localhost:1313/images/avatar.png">
+  content="https://hhamine.github.io/images/avatar.png">
 <meta property="og:image:width" content="2048">
 <meta property="og:image:height" content="1024">
 
 
 
 
-<link href="/index.xml" rel="alternate" type="application/rss+xml" title="Hamed Hamine SANOU | Ingénieur SI &amp; Développeur Full-Stack" />
+<link href="/portfolio/index.xml" rel="alternate" type="application/rss+xml" title="Hamed Hamine SANOU | Ingénieur SI &amp; Développeur Full-Stack" />
 
 
 
@@ -69,7 +69,7 @@
   <div style="position: relative">
   <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap open Details--on">
     <div class="Header-item mobile-none" style="margin-top: -4px; margin-bottom: -4px;">
-      <a class="Header-link" href="http://localhost:1313/">
+      <a class="Header-link" href="https://hhamine.github.io/portfolio/">
         <img class="octicon" height="32" width="32" src="/images/github-mark-white.png">
       </a>
     </div>
@@ -103,7 +103,7 @@
     </div>
 
     <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
-      <a class="Header-link " href="http://localhost:1313/">
+      <a class="Header-link " href="https://hhamine.github.io/portfolio/">
         <img class="octicon octicon-mark-github v-align-middle" height="32" width="32" src="/images/github-mark-white.png">
       </a>
     </div>
@@ -138,7 +138,7 @@
       <div class="flex-shrink-0 col-12 col-md-9 mb-4 mb-md-0">
         <div class="UnderlineNav width-full box-shadow-none hx_UnderlineNav-with-profile-color-modes-banner">
           <nav class="UnderlineNav-body">
-            <a class="UnderlineNav-item  selected " href="http://localhost:1313/">
+            <a class="UnderlineNav-item  selected " href="https://hhamine.github.io/portfolio/">
               <svg class="octicon octicon-book UnderlineNav-octicon hide-sm" height="16" viewBox="0 0 16 16"
                 version="1.1" width="16">
                 <path fill-rule="evenodd"
@@ -147,7 +147,7 @@
               </svg>
               Overview
             </a>
-            <a class="UnderlineNav-item " href="http://localhost:1313/post">
+            <a class="UnderlineNav-item " href="https://hhamine.github.io/portfolio/post">
               <svg class="octicon octicon-repo UnderlineNav-octicon hide-sm" height="16" viewBox="0 0 16 16"
                 version="1.1" width="16">
                 <path fill-rule="evenodd"
@@ -404,33 +404,33 @@
           
           
           <a style="margin: 0 10px 10px 0;" href="https://github.com/hhamine">
-            <img alt="@GitHub" width="32" height="32" src='http://localhost:1313/images/link.png' class="avatar">
+            <img alt="@GitHub" width="32" height="32" src='https://hhamine.github.io/portfolio/images/link.png' class="avatar">
           </a>
           
           
           
           <a style="margin: 0 10px 10px 0;" href="/projects/">
-            <img alt="@Projets" width="32" height="32" src='http://localhost:1313/images/link.png' class="avatar">
+            <img alt="@Projets" width="32" height="32" src='https://hhamine.github.io/portfolio/images/link.png' class="avatar">
           </a>
           
           
           
           <a style="margin: 0 10px 10px 0;" href="/cv/">
-            <img alt="@CV" width="32" height="32" src='http://localhost:1313/images/link.png' class="avatar">
+            <img alt="@CV" width="32" height="32" src='https://hhamine.github.io/portfolio/images/link.png' class="avatar">
           </a>
           
           
           
           <a style="margin: 0 10px 10px 0;" href="/contact/">
-            <img alt="@Contact" width="32" height="32" src='http://localhost:1313/images/link.png' class="avatar">
+            <img alt="@Contact" width="32" height="32" src='https://hhamine.github.io/portfolio/images/link.png' class="avatar">
           </a>
           
           
           
 
           
-          <a style="margin: 0 10px 10px 0;" href="http://localhost:1313/index.xml">
-            <img alt="@rss" width="32" height="32" src="http://localhost:1313/images/rss.png" class="avatar">
+          <a style="margin: 0 10px 10px 0;" href="https://hhamine.github.io/portfolio/index.xml">
+            <img alt="@rss" width="32" height="32" src="https://hhamine.github.io/portfolio/images/rss.png" class="avatar">
           </a>
           
          </div>
@@ -444,7 +444,7 @@
 <div class="UnderlineNav user-profile-nav d-block d-md-none position-sticky top-0 pl-3 ml-n3 mr-n3 pr-3 bg-white"
   style="z-index:3;">
   <nav class="UnderlineNav-body">
-    <a class="UnderlineNav-item  selected " href="http://localhost:1313/">
+    <a class="UnderlineNav-item  selected " href="https://hhamine.github.io/portfolio/">
       <svg class="octicon octicon-book UnderlineNav-octicon hide-sm" height="16" viewBox="0 0 16 16" version="1.1"
         width="16">
         <path fill-rule="evenodd"
@@ -454,7 +454,7 @@
       Overview
     </a>
     <a class='UnderlineNav-item  '
-      href="http://localhost:1313/post">
+      href="https://hhamine.github.io/portfolio/post">
       <svg class="octicon octicon-repo UnderlineNav-octicon hide-sm" height="16" viewBox="0 0 16 16" version="1.1"
         width="16">
         <path fill-rule="evenodd"
@@ -498,7 +498,7 @@
                       d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z">
                     </path>
                   </svg>
-                  <a class="text-bold flex-auto min-width-0" href="http://localhost:1313/post/read_me/">
+                  <a class="text-bold flex-auto min-width-0" href="https://hhamine.github.io/portfolio/post/read_me/">
                     <span class="repo" title=" 🐼 READ_ME"> 🐼 READ_ME</span>
                   </a>
                 </div>
@@ -559,7 +559,7 @@
                       d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z">
                     </path>
                   </svg>
-                  <a class="text-bold flex-auto min-width-0" href="http://localhost:1313/post/era/">
+                  <a class="text-bold flex-auto min-width-0" href="https://hhamine.github.io/portfolio/post/era/">
                     <span class="repo" title="EventMaster – Système de Gestion d’Événements de Don Voting et Vente de Tickets">EventMaster – Système de Gestion d’Événements de Don Voting et Vente de Tickets</span>
                   </a>
                 </div>
@@ -585,7 +585,7 @@
                 <p class="mb-0 f6 text-gray">
                   
                   
-                  <a href="http://localhost:1313/tags/gestion-d%C3%A9v%C3%A9nements" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/gestion-d%C3%A9v%C3%A9nements" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -594,7 +594,7 @@
                     Gestion d’événements
                   </a>
                   
-                  <a href="http://localhost:1313/tags/tickets" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/tickets" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -603,7 +603,7 @@
                     Tickets
                   </a>
                   
-                  <a href="http://localhost:1313/tags/ruby-on-rails" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/ruby-on-rails" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -612,7 +612,7 @@
                     Ruby on Rails
                   </a>
                   
-                  <a href="http://localhost:1313/tags/postgresql" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/postgresql" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -621,7 +621,7 @@
                     PostgreSQL
                   </a>
                   
-                  <a href="http://localhost:1313/tags/ticketame" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/ticketame" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -647,7 +647,7 @@
                       d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z">
                     </path>
                   </svg>
-                  <a class="text-bold flex-auto min-width-0" href="http://localhost:1313/post/syst%C3%A8me_de_gestion_des_cotisations/">
+                  <a class="text-bold flex-auto min-width-0" href="https://hhamine.github.io/portfolio/post/syst%C3%A8me_de_gestion_des_cotisations/">
                     <span class="repo" title="Analyse et Conception du projet Système de Gestion des Cotisations pour Eglise">Analyse et Conception du projet Système de Gestion des Cotisations pour Eglise</span>
                   </a>
                 </div>
@@ -692,7 +692,7 @@ L’étude, l’analyse, la conception et l’élaboration du cahier des charges
                 <p class="mb-0 f6 text-gray">
                   
                   
-                  <a href="http://localhost:1313/tags/ruby-on-rails" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/ruby-on-rails" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -701,7 +701,7 @@ L’étude, l’analyse, la conception et l’élaboration du cahier des charges
                     Ruby on Rails
                   </a>
                   
-                  <a href="http://localhost:1313/tags/postgresql" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/postgresql" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -710,7 +710,7 @@ L’étude, l’analyse, la conception et l’élaboration du cahier des charges
                     PostgreSQL
                   </a>
                   
-                  <a href="http://localhost:1313/tags/sqlite" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/sqlite" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -719,7 +719,7 @@ L’étude, l’analyse, la conception et l’élaboration du cahier des charges
                     SQLite
                   </a>
                   
-                  <a href="http://localhost:1313/tags/paiement-en-ligne" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/paiement-en-ligne" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -728,7 +728,7 @@ L’étude, l’analyse, la conception et l’élaboration du cahier des charges
                     Paiement en ligne
                   </a>
                   
-                  <a href="http://localhost:1313/tags/templating" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/templating" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -754,7 +754,7 @@ L’étude, l’analyse, la conception et l’élaboration du cahier des charges
                       d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z">
                     </path>
                   </svg>
-                  <a class="text-bold flex-auto min-width-0" href="http://localhost:1313/post/ong_sos/">
+                  <a class="text-bold flex-auto min-width-0" href="https://hhamine.github.io/portfolio/post/ong_sos/">
                     <span class="repo" title="SOS Village d’Enfants – Système de Collecte de Dons">SOS Village d’Enfants – Système de Collecte de Dons</span>
                   </a>
                 </div>
@@ -812,7 +812,7 @@ L’étude, l’analyse, la conception et l’élaboration du cahier des charges
                 <p class="mb-0 f6 text-gray">
                   
                   
-                  <a href="http://localhost:1313/tags/ruby-on-rails" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/ruby-on-rails" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -821,7 +821,7 @@ L’étude, l’analyse, la conception et l’élaboration du cahier des charges
                     Ruby on Rails
                   </a>
                   
-                  <a href="http://localhost:1313/tags/postgresql" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/postgresql" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -830,7 +830,7 @@ L’étude, l’analyse, la conception et l’élaboration du cahier des charges
                     PostgreSQL
                   </a>
                   
-                  <a href="http://localhost:1313/tags/templating" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/templating" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -839,7 +839,7 @@ L’étude, l’analyse, la conception et l’élaboration du cahier des charges
                     Templating
                   </a>
                   
-                  <a href="http://localhost:1313/tags/paiement-en-ligne" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/paiement-en-ligne" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -848,7 +848,7 @@ L’étude, l’analyse, la conception et l’élaboration du cahier des charges
                     Paiement en ligne
                   </a>
                   
-                  <a href="http://localhost:1313/tags/nos3s" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/nos3s" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -874,7 +874,7 @@ L’étude, l’analyse, la conception et l’élaboration du cahier des charges
                       d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z">
                     </path>
                   </svg>
-                  <a class="text-bold flex-auto min-width-0" href="http://localhost:1313/post/aquaparksystem/">
+                  <a class="text-bold flex-auto min-width-0" href="https://hhamine.github.io/portfolio/post/aquaparksystem/">
                     <span class="repo" title="Analyse et Conception du projet Café du Chef – Aquapark System">Analyse et Conception du projet Café du Chef – Aquapark System</span>
                   </a>
                 </div>
@@ -898,7 +898,7 @@ Il comprend deux solutions interconnectées :</p>
                 <p class="mb-0 f6 text-gray">
                   
                   
-                  <a href="http://localhost:1313/tags/django" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/django" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -907,7 +907,7 @@ Il comprend deux solutions interconnectées :</p>
                     Django
                   </a>
                   
-                  <a href="http://localhost:1313/tags/spring-boot" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/spring-boot" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -916,7 +916,7 @@ Il comprend deux solutions interconnectées :</p>
                     Spring Boot
                   </a>
                   
-                  <a href="http://localhost:1313/tags/angular" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/angular" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -925,7 +925,7 @@ Il comprend deux solutions interconnectées :</p>
                     Angular
                   </a>
                   
-                  <a href="http://localhost:1313/tags/flutter" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/flutter" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -934,7 +934,7 @@ Il comprend deux solutions interconnectées :</p>
                     Flutter
                   </a>
                   
-                  <a href="http://localhost:1313/tags/react-native" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/react-native" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -960,7 +960,7 @@ Il comprend deux solutions interconnectées :</p>
                       d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z">
                     </path>
                   </svg>
-                  <a class="text-bold flex-auto min-width-0" href="http://localhost:1313/post/porttradeconnect/">
+                  <a class="text-bold flex-auto min-width-0" href="https://hhamine.github.io/portfolio/post/porttradeconnect/">
                     <span class="repo" title="Etude, Analyse et Conception du projet PortTradeConnect – Plateforme d’Échanges Commerciaux">Etude, Analyse et Conception du projet PortTradeConnect – Plateforme d’Échanges Commerciaux</span>
                   </a>
                 </div>
@@ -986,7 +986,7 @@ Il comprend deux solutions interconnectées :</p>
                 <p class="mb-0 f6 text-gray">
                   
                   
-                  <a href="http://localhost:1313/tags/ruby-on-rails" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/ruby-on-rails" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -995,7 +995,7 @@ Il comprend deux solutions interconnectées :</p>
                     Ruby on Rails
                   </a>
                   
-                  <a href="http://localhost:1313/tags/postgresql" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/postgresql" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -1004,7 +1004,7 @@ Il comprend deux solutions interconnectées :</p>
                     PostgreSQL
                   </a>
                   
-                  <a href="http://localhost:1313/tags/templating" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/templating" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -1013,7 +1013,7 @@ Il comprend deux solutions interconnectées :</p>
                     Templating
                   </a>
                   
-                  <a href="http://localhost:1313/tags/paiement-en-ligne" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/paiement-en-ligne" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -1022,7 +1022,7 @@ Il comprend deux solutions interconnectées :</p>
                     Paiement en ligne
                   </a>
                   
-                  <a href="http://localhost:1313/tags/nos3s" class="pinned-item-meta muted-link ">
+                  <a href="https://hhamine.github.io/portfolio/tags/nos3s" class="pinned-item-meta muted-link ">
                     <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
                       <path fill-rule="evenodd"
                         d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
@@ -1045,55 +1045,55 @@ Il comprend deux solutions interconnectées :</p>
     <div class="mt-4 position-relative" id="contributions" data='[
 {
   "title": "%20%f0%9f%90%bc%20READ_ME",
-  "link": "http://localhost:1313/post/read_me/",
+  "link": "https://hhamine.github.io/portfolio/post/read_me/",
   "publishDate": "2026-02-23%2019:58:08"
 },
 
 {
   "title": "EventMaster%20%e2%80%93%20Syst%c3%a8me%20de%20Gestion%20d%e2%80%99%c3%89v%c3%a9nements%20de%20Don%20Voting%20et%20Vente%20de%20Tickets",
-  "link": "http://localhost:1313/post/era/",
+  "link": "https://hhamine.github.io/portfolio/post/era/",
   "publishDate": "2025-12-01%2000:00:00"
 },
 
 {
   "title": "Analyse%20et%20Conception%20du%20projet%20Syst%c3%a8me%20de%20Gestion%20des%20Cotisations%20pour%20Eglise",
-  "link": "http://localhost:1313/post/syst%C3%A8me_de_gestion_des_cotisations/",
+  "link": "https://hhamine.github.io/portfolio/post/syst%C3%A8me_de_gestion_des_cotisations/",
   "publishDate": "2025-10-10%2000:00:00"
 },
 
 {
   "title": "SOS%20Village%20d%e2%80%99Enfants%20%e2%80%93%20Syst%c3%a8me%20de%20Collecte%20de%20Dons",
-  "link": "http://localhost:1313/post/ong_sos/",
+  "link": "https://hhamine.github.io/portfolio/post/ong_sos/",
   "publishDate": "2025-09-24%2000:00:00"
 },
 
 {
   "title": "Analyse%20et%20Conception%20du%20projet%20Caf%c3%a9%20du%20Chef%20%e2%80%93%20Aquapark%20System",
-  "link": "http://localhost:1313/post/aquaparksystem/",
+  "link": "https://hhamine.github.io/portfolio/post/aquaparksystem/",
   "publishDate": "2025-07-21%2000:00:00"
 },
 
 {
   "title": "Etude,%20Analyse%20et%20Conception%20du%20projet%20PortTradeConnect%20%e2%80%93%20Plateforme%20d%e2%80%99%c3%89changes%20Commerciaux",
-  "link": "http://localhost:1313/post/porttradeconnect/",
+  "link": "https://hhamine.github.io/portfolio/post/porttradeconnect/",
   "publishDate": "2025-07-14%2000:00:00"
 },
 
 {
   "title": "ChatCoins%20Network%20%e2%80%93%20Messagerie%20et%20R%c3%a9seau%20Social%20Open%20Source",
-  "link": "http://localhost:1313/post/ora/",
+  "link": "https://hhamine.github.io/portfolio/post/ora/",
   "publishDate": "2025-05-08%2000:00:00"
 },
 
 {
   "title": "LigdiCash%20%e2%80%93%20Gestion%20Administrative%20et%20Cartographie%20des%20Agences",
-  "link": "http://localhost:1313/post/ligdimaps/",
+  "link": "https://hhamine.github.io/portfolio/post/ligdimaps/",
   "publishDate": "2025-04-07%2000:00:00"
 },
 
 {
   "title": "SIH-LafiBoard%20%e2%80%93%20Syst%c3%a8me%20d%27Information%20Hospitalier%20LAFIBOARD",
-  "link": "http://localhost:1313/post/sih_lafiboard/",
+  "link": "https://hhamine.github.io/portfolio/post/sih_lafiboard/",
   "publishDate": "2024-02-08%2000:00:00"
 }
 ]'>
@@ -1202,7 +1202,7 @@ else {
   <div class="footer container-xl width-full p-responsive">
   <div
     class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between flex-sm-items-center pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
-    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mr-lg-4" href="http://localhost:1313/">
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mr-lg-4" href="https://hhamine.github.io/portfolio/">
       <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24">
         <path fill-rule="evenodd"
           d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
@@ -1225,14 +1225,14 @@ else {
 
 </body>
 
-<script type="application/javascript" src="http://localhost:1313/js/github-style.js"></script>
+<script type="application/javascript" src="https://hhamine.github.io/portfolio/js/github-style.js"></script>
 
 
 
 
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.min.js"></script>
-<script type="application/javascript" src='http://localhost:1313/js/search.js'></script>
+<script type="application/javascript" src='https://hhamine.github.io/portfolio/js/search.js'></script>
 
 
 
